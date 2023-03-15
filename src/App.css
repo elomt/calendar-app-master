@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.MuiPickersToolbar-root.MuiPickersLayout-toolbar {
+  visibility: hidden;
+  display: none;
+}
+
+.MuiDialogActions-root.MuiDialogActions-spacing.MuiPickersLayout-actionBar {
+  visibility: hidden;
+  display: none;
+}
